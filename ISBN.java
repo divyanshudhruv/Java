@@ -26,7 +26,7 @@ public class ISBN {
                 num/=10;
             }
             if(sum%11 == 0)
-                System.out.println("It Is A Valid ISBN Code.");
+                System.out.println("It Is A Valid ISBN Code");
             else{
                 System.out.println("Error! Illegal ISBN");
                 System.exit(0);
