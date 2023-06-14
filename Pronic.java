@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Pronic{
-    int n;
+    int n;a
     
     Pronic(){
         n=0;
